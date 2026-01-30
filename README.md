@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/gpmakhilesh)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:akhileshathkoni79034@gmail.com)
 
 ---
@@ -39,7 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
