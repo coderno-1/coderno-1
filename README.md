@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/gpmakhilesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)][(www.linkedin.com/in/gpmakhilesh](https://www.linkedin.com/in/gpmakhilesh?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BfQrK3YAMSNKz1C9VNpTl5g%3D%3D))
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:akhileshathkoni79034@gmail.com)
 
 ---
