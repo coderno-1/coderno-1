@@ -9,7 +9,7 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:akhileshathkoni79034@gmail.com)
 
 ---
 
@@ -40,8 +40,11 @@
 ---
 
 ## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderno-1&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=coderno-1&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=coderno-1&theme=tokyonight)
+
 
 ---
 
