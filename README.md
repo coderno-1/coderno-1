@@ -40,9 +40,15 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderno-1&show_icons=true)
+<h2>📊 GitHub Stats</h2>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderno-1)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderno-1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=coderno-1&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 
 ---
